@@ -1,0 +1,6 @@
+{
+  "files.autoSave": "afterDelay",
+  "html.format.wrapAttributes": "force-aligned",
+  "powershell.startAsLoginShell.linux": true,
+  "powershell.debugging.createTemporaryIntegratedConsole": true
+}
